@@ -1,0 +1,11 @@
+C:\Users\sudeo\source\repos\Productify\Core\Productify.Domain\bin\Debug\net7.0\Productify.Domain.deps.json
+C:\Users\sudeo\source\repos\Productify\Core\Productify.Domain\bin\Debug\net7.0\Productify.Domain.dll
+C:\Users\sudeo\source\repos\Productify\Core\Productify.Domain\bin\Debug\net7.0\Productify.Domain.pdb
+C:\Users\sudeo\source\repos\Productify\Core\Productify.Domain\obj\Debug\net7.0\Productify.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudeo\source\repos\Productify\Core\Productify.Domain\obj\Debug\net7.0\Productify.Domain.AssemblyInfoInputs.cache
+C:\Users\sudeo\source\repos\Productify\Core\Productify.Domain\obj\Debug\net7.0\Productify.Domain.AssemblyInfo.cs
+C:\Users\sudeo\source\repos\Productify\Core\Productify.Domain\obj\Debug\net7.0\Productify.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sudeo\source\repos\Productify\Core\Productify.Domain\obj\Debug\net7.0\Productify.Domain.dll
+C:\Users\sudeo\source\repos\Productify\Core\Productify.Domain\obj\Debug\net7.0\refint\Productify.Domain.dll
+C:\Users\sudeo\source\repos\Productify\Core\Productify.Domain\obj\Debug\net7.0\Productify.Domain.pdb
+C:\Users\sudeo\source\repos\Productify\Core\Productify.Domain\obj\Debug\net7.0\ref\Productify.Domain.dll
